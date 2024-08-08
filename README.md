@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-sanity-drizzle.vercel.app/](https://portfolio-sanity-drizzle.vercel.app/)
 
-- 💬 Ask me about **next.js,python,react,typescript,postgressql**
+- 💬 Ask me about **Next.Js, Python, React, Typescript, Postgressql, Custom GPTs,**
 
 - 📫 How to reach me **chsaqib11223@gmail.com**
 
