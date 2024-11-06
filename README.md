@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ch Saqib</h1>
-<h3 align="center">A passionate Frontend Developer | Cloud Applied Generative AI Engineer (GenEng) from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer | AI Agents | Cloud Applied Generative AI Engineer (GenEng) from Pakistan</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-sanity-drizzle.vercel.app/](https://portfolio-sanity-drizzle.vercel.app/)
 
-- 💬 Ask me about **Next.Js, Python, React, Typescript, Postgressql, Custom GPTs,**
+- 💬 Ask me about **Next.Js, Python, React, Typescript, Postgressql, Custom GPTs,Langgraph,Langchain,Microsoft Azure**
 
 - 📫 How to reach me **chsaqib11223@gmail.com**
 
