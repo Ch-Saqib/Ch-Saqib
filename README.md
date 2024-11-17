@@ -9,7 +9,7 @@ A passionate **Full Stack Developer | AI Agents | Cloud Applied Generative AI En
 - 📫 How to reach me **chsaqib11223@gmail.com**
 - 🤓 Now shipping applied generative AI products and building API-first design AI microservices. Build most stuff using the **nextjs14**, **fastapi**, **modern-python**, and the **genai-stack**
 - 🌍 Based in **Pakistan** 🇵🇰
-- 🎓 Learning at **[Presidential Initiative for Artificial Intelligence and Computing](https://www.piapc.ai)**
+- 🎓 Learning at **[Presidential Initiative for Artificial Intelligence and Computing](https://www.piaic.com/)**
 
 ---
 
@@ -54,4 +54,4 @@ A passionate **Full Stack Developer | AI Agents | Cloud Applied Generative AI En
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ch-Saqib)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqib-imran-537759230/)
-[![X (Twitter)](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-profile)]
+[![X (Twitter)](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=X&logoColor=white)](https://x.com/chsaqib11223)
