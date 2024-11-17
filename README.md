@@ -17,11 +17,7 @@ A passionate **Full Stack Developer | AI Agents | Cloud Applied Generative AI En
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ch-Saqib&color=blue&style=flat)
 [![GitHub Followers](https://img.shields.io/github/followers/Ch-Saqib?style=flat&logo=github&label=Followers)](https://github.com/Ch-Saqib)
-[![GitHub Repositories](https://img.shields.io/badge/Repositories-20-181717?style=flat&logo=github)](https://github.com/Ch-Saqib?tab=repositories)
-
-[![GitHub Repositories](https://img.shields.io/badge/Repositories-0-181717?style=flat&logo=github)](https://github.com/Ch-Saqib?tab=repositories)
-
-[![GitHub Repositories](https://img.shields.io/badge/Repositories-<latest_count>-181717?style=flat&logo=github)](https://github.com/Ch-Saqib?tab=repositories)
+[![GitHub Repositories](https://img.shields.io/badge/Repositories-43-181717?style=flat&logo=github)](https://github.com/Ch-Saqib?tab=repositories)
 
 
 
