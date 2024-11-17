@@ -28,8 +28,8 @@ A passionate **Full Stack Developer | AI Agents | Cloud Applied Generative AI En
 [![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![FastApi](https://img.shields.io/badge/-FastApi-3776AB?style=flat-square&logo=fastapi&logoColor=black)](https://fastapi.tiangolo.com/)
-[![Poetry](https://img.shields.io/badge/-Poetry-3776AB?style=flat-square&logo=poetry&logoColor=green)](https://python-poetry.org/)
+[![FastApi](https://img.shields.io/badge/-FastApi-009485?style=flat-square&logo=fastapi&logoColor=black)](https://fastapi.tiangolo.com/)
+[![Poetry](https://img.shields.io/badge/-Poetry-1E293B?style=flat-square&logo=poetry&logoColor=blue)](https://python-poetry.org/)
 
 
 ### AI & Data Tools
