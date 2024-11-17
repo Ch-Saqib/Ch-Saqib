@@ -1,0 +1,32 @@
+name: Update README with Repo Count
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Get Repository Count
+        id: repo_count
+        run: |
+          count=$(curl -s https://api.github.com/users/Ch-Saqib | jq '.public_repos')
+          echo "::set-output name=count::$count"
+
+      - name: Update README
+        run: |
+          sed -i "s/Repositories-[0-9]*/Repositories-${{ steps.repo_count.outputs.count }}/" README.md
+        env:
+          REPO_COUNT: ${{ steps.repo_count.outputs.count }}
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update repository count"
+          git push
