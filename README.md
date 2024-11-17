@@ -21,6 +21,9 @@ A passionate **Full Stack Developer | AI Agents | Cloud Applied Generative AI En
 
 [![GitHub Repositories](https://img.shields.io/badge/Repositories-0-181717?style=flat&logo=github)](https://github.com/Ch-Saqib?tab=repositories)
 
+[![GitHub Repositories](https://img.shields.io/badge/Repositories-<latest_count>-181717?style=flat&logo=github)](https://github.com/Ch-Saqib?tab=repositories)
+
+
 
 ---
 
