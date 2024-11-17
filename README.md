@@ -1,68 +1,57 @@
-<h1 align="center">Hi 👋, I'm Ch Saqib</h1>
-<h3 align="center">A passionate Full Stack Developer | AI Agents | Cloud Applied Generative AI Engineer (GenEng) from Pakistan</h3>
+# Hi 👋, I'm Ch Saqib
 
-- 👨‍💻 All of my projects are available at [https://portfolio-sanity-drizzle.vercel.app/](https://portfolio-sanity-drizzle.vercel.app/)
+A passionate **Full Stack Developer | AI Agents | Cloud Applied Generative AI Engineer (GenEng)** from **Pakistan**.
 
-- 💬 Ask me about **Next.Js, Python, React, Typescript, Postgressql, Custom GPTs,Langgraph,Langchain,Microsoft Azure**
+---
 
+- 🌐 All of my projects are available at [My Portfolio](https://portfolio-sanity-drizzle.vercel.app/)
+- 💬 Ask me about **Next.js, Python, React, Typescript, Postgresql, Custom GPTs, Langgraph, Langchain, Microsoft Azure**
 - 📫 How to reach me **chsaqib11223@gmail.com**
+- 🤓 Now shipping applied generative AI products and building API-first design AI microservices. Build most stuff using the **nextjs14**, **fastapi**, **modern-python**, and the **genai-stack**
+- 🌍 Based in **Pakistan** 🇵🇰
+- 🎓 Learning at **[Presidential Initiative for Artificial Intelligence and Computing](https://www.piapc.ai)**
 
-- 👨💻 Now shipping applied generative ai products and building api first design ai microservices. Build most stuff using the <a href="https://nextjs.org/"> nextjs14</a>,<a href="https://fastapi.tiangolo.com/"> fastapi</a>, modern-python, and the genai-stack
- - 🌍 Based in Pakistan 🇵🇰
- - 🧠 Learning @ <a href="https://www.piaic.org/">Presidential Initiative for Artificial Intelligence and Computing</a>
+---
 
+## Profile Views
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ch-Saqib&color=blue&style=flat-square)
 
-**Skills**
+---
 
+## Skills
 
- **<a href="https://nextjs.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Nextjs Logo" width="60" height="60">
-</a>**
-**<a href="https://tailwindcss.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind Css Logo" width="60" height="60">
-</a>**
-**<a href="https://www.python.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" width="60" height="60">
-</a>**
-**<a href="https://python-poetry.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" alt="Poetry Logo" width="60" height="60">
-</a>**
-**<a href="https://fastapi.tiangolo.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastApi Logo" width="60" height="60">
-</a>**
-**<a href="https://www.typescriptlang.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript Logo" width="60" height="60">
-</a>**
-**<a href="https://www.docker.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker Logo" width="60" height="60">
-</a>**
-**<a href="https://aws.amazon.com/free/?gclid=CjwKCAjwo6GyBhBwEiwAzQTmczygsthYWLASn6wUJoHTPsuCwLsDK7_Hszh2hME_8Rb5-u-lkK823BoC4DsQAvD_BwE&trk=3ab2e58b-706c-483a-b823-4661209f3fa5&sc_channel=ps&ef_id=CjwKCAjwo6GyBhBwEiwAzQTmczygsthYWLASn6wUJoHTPsuCwLsDK7_Hszh2hME_8Rb5-u-lkK823BoC4DsQAvD_BwE:G:s&s_kwcid=AL!4422!3!676949700693!e!!g!!azure!20656884922!151388762301&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Typescript Logo" width="60" height="60">
-</a>**
-**<a href="https://azure.microsoft.com/en-us/free/search/?ef_id=_k_CjwKCAjwo6GyBhBwEiwAzQTmc3vyGp8R6s8x7BgEx5OcjYiwXhzSJ6nBb6-ksjDey7N1vLRW8lh7whoCoSwQAvD_BwE_k_&OCID=AIDcmm8ge9eggm_SEM__k_CjwKCAjwo6GyBhBwEiwAzQTmc3vyGp8R6s8x7BgEx5OcjYiwXhzSJ6nBb6-ksjDey7N1vLRW8lh7whoCoSwQAvD_BwE_k_&gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmc3vyGp8R6s8x7BgEx5OcjYiwXhzSJ6nBb6-ksjDey7N1vLRW8lh7whoCoSwQAvD_BwE">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure Logo" width="60" height="60">
-</a>**
-**<a href="https://www.postgresql.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Postgres Logo" width="60" height="60">
-</a>**
-**<a href="https://react.dev/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="Postgres Logo" width="60" height="60">
-</a>**
+### Programming & Frameworks
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![FastApi](https://img.shields.io/badge/-FastApi-3776AB?style=flat-square&logo=fastapi&logoColor=black)](https://fastapi.tiangolo.com/)
+[![Poetry](https://img.shields.io/badge/-Poetry-3776AB?style=flat-square&logo=poetry&logoColor=green)](https://python-poetry.org/)
 
 
-**Social**
+### AI & Data Tools
+[![Langgraph](https://img.shields.io/badge/-Langgraph-000000?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/langgraph)
+[![Langchain](https://img.shields.io/badge/-Langchain-000000?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/langchain)
+[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
+[![Swarm](https://img.shields.io/badge/-OpenAISwarm-412991?style=flat-square&logo=openai&logoColor=white)](https://github.com/openai/swarm)
 
 
-**<a href="https://github.com/Ch-Saqib?tab=repositories">
-   <img src="https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png" alt="Github Logo" width="100" height="60"/>
-</a>**
-**<a href="https://www.linkedin.com/in/saqib-imran-537759230/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin Logo" width="60" height="60">
-</a>**
-**<a href="/">
-  <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg" alt="Twitter Logo" width="60" height="60" color="white">
-</a>**
+### Databases
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)](https://neo4j.com/)
 
-          
+### Cloud Platforms
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon&logoColor=white)](https://aws.amazon.com/free/?gclid=CjwKCAjwo6GyBhBwEiwAzQTmczygsthYWLASn6wUJoHTPsuCwLsDK7_Hszh2hME_8Rb5-u-lkK823BoC4DsQAvD_BwE&trk=3ab2e58b-706c-483a-b823-4661209f3fa5&sc_channel=ps&ef_id=CjwKCAjwo6GyBhBwEiwAzQTmczygsthYWLASn6wUJoHTPsuCwLsDK7_Hszh2hME_8Rb5-u-lkK823BoC4DsQAvD_BwE:G:s&s_kwcid=AL!4422!3!676949700693!e!!g!!azure!20656884922!151388762301&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
+[![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/free/search/?ef_id=_k_CjwKCAjwo6GyBhBwEiwAzQTmc3vyGp8R6s8x7BgEx5OcjYiwXhzSJ6nBb6-ksjDey7N1vLRW8lh7whoCoSwQAvD_BwE_k_&OCID=AIDcmm8ge9eggm_SEM__k_CjwKCAjwo6GyBhBwEiwAzQTmc3vyGp8R6s8x7BgEx5OcjYiwXhzSJ6nBb6-ksjDey7N1vLRW8lh7whoCoSwQAvD_BwE_k_&gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmc3vyGp8R6s8x7BgEx5OcjYiwXhzSJ6nBb6-ksjDey7N1vLRW8lh7whoCoSwQAvD_BwE)
+[![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
 
+---
+
+## Social
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ch-Saqib)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqib-imran-537759230/)
+[![X (Twitter)](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-profile)]
