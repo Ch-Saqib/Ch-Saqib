@@ -20,7 +20,7 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s/Repositories-[0-9]*/Repositories-${{ steps.repo_count.outputs.count }}/" Ch-Saqib/README.md
+          sed -i "s/badge\/Repositories-[0-9]*/badge\/Repositories-${{ steps.repo_count.outputs.count }}/" Ch-Saqib/README.md
         env:
           REPO_COUNT: ${{ steps.repo_count.outputs.count }}
 
