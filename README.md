@@ -1,13 +1,13 @@
-# Hi 👋, I'm Ch Saqib
+# Hi 👋, I'm Saqib
 
 A passionate **Full Stack Developer | AI Agents | Cloud Applied Generative AI Engineer (GenEng)** from **Pakistan**.
 
 ---
 
-- 🌐 All of my projects are available at [My Portfolio](https://portfolio-sanity-drizzle.vercel.app/)
-- 💬 Ask me about **Next.js, Python, React, Typescript, Postgresql, Custom GPTs, Langgraph, Langchain, Microsoft Azure**
+- 🌐 All of my projects are available at [My Portfolio](https://portfolio-sanity-drizzle.vercel.app/) & [Github-Repo](https://github.com/Ch-Saqib)
+- 💬 Ask me about **Next.js, Python, React, Typescript, Postgresql, Custom GPTs, Langgraph, Langchain, Microsoft Azure, OpenAI Swarm Agents**
 - 📫 How to reach me **chsaqib11223@gmail.com**
-- 🤓 Now shipping applied generative AI products and building API-first design AI microservices. Build most stuff using the **nextjs14**, **fastapi**, **modern-python**, and the **genai-stack**
+- 🤓 Now shipping applied generative AI products and building API-first design AI microservices. Build most stuff using the **Nextjs15**, **FastApi**, **Modern-Python**, and the **GenAI-Stack**
 - 🌍 Based in **Pakistan** 🇵🇰
 - 🎓 Learning at **[Presidential Initiative for Artificial Intelligence and Computing](https://www.piaic.com/)**
 
