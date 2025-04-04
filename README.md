@@ -39,8 +39,7 @@ A passionate **Full Stack Developer | AI Agents | Cloud Applied Generative AI En
 [![Langgraph](https://img.shields.io/badge/Langgraph-000000?style=flat&logo=langchain&logoColor=white)](https://www.langchain.com/langgraph)
 [![Langchain](https://img.shields.io/badge/Langchain-000000?style=flat&logo=langchain&logoColor=white)](https://www.langchain.com/langchain)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.com/)
-[![OpenAI Agent SDK](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.github.io/openai-agents-python//)
-[![Swarm](https://img.shields.io/badge/OpenAISwarm-412991?style=flat&logo=openai&logoColor=white)](https://github.com/openai/swarm)
+[![OpenAI Agent SDK](https://img.shields.io/badge/OpenAIAgent-SDK-412991?style=flat&logo=openai&logoColor=white)](https://openai.github.io/openai-agents-python//)
 
 
 ### Databases
