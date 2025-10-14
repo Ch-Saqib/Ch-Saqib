@@ -10,6 +10,7 @@ A passionate **Full Stack Developer | AI Agents | Cloud Applied Generative AI En
 - 🤓 Now shipping applied generative AI products and building API-first design AI microservices. Build most stuff using the **Nextjs15**, **FastApi**, **Modern-Python**, and the **GenAI-Stack**
 - 🌍 Based in **Pakistan** 🇵🇰
 - 🎓 Learning at **[Presidential Initiative for Artificial Intelligence and Computing](https://www.piaic.com/)**
+- 🚀 Startup Founder of **[Panaversity](https://panaversity.org/)** empowering learners through AI-driven education and innovation
 
 ---
 
