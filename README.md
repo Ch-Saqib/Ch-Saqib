@@ -28,7 +28,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ch-Saqib&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub Followers](https://img.shields.io/github/followers/Ch-Saqib?style=for-the-badge&logo=github&label=FOLLOWERS&color=0e75b6)](https://github.com/Ch-Saqib)
-[![GitHub Repositories](https://img.shields.io/badge/REPOSITORIES-86-181717?style=for-the-badge&logo=github)](https://github.com/Ch-Saqib?tab=repositories)
+[![GitHub Repositories](https://img.shields.io/badge/REPOSITORIES-89-181717?style=for-the-badge&logo=github)](https://github.com/Ch-Saqib?tab=repositories)
 
 </div>
 
